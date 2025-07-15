@@ -1,4 +1,4 @@
-# Antenas_trabajo2
+# Antenas Trabajo2
 
 Este trabajo presenta el diseño e implementación
 de un arreglo lineal uniforme conformado por siete transmisores
